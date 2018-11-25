@@ -37,6 +37,7 @@ func countPrimes(n int) []int {
 	// orig
 	fmt.Println(notP)
 
+	// type + {}
 	arr := []int{} 
 	// e.g. start at 1, end at 10
 	for i:=1; i<=n; i++ {
